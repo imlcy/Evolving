@@ -1,5 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cylee1017)](https://solved.ac/cylee1017/)
 <!--
 **imlcy/imlcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
